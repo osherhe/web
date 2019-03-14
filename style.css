@@ -86,6 +86,7 @@ body
 	border-right: 1px solid rgb(159, 209, 207);
 }
 
+
 a
 {
 	font: bold 30px/40px Times, serif;
@@ -95,4 +96,11 @@ a
 	text-align: center;
 	border-right: 1px solid rgb(159, 209, 207);
 }
+.web
+{
+	font: bold 12px/30px Times;
+	font-size: 200%;
+	font-style: italic;
+}
+
 
