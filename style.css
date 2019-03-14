@@ -26,6 +26,66 @@ body
 	border-right: 1px solid rgb(159, 209, 207);
 }
 
+#about
+{
+	font: underline 15px/40px Times, serif;
+	font-size: 200%;
+	text-decoration: none;
+	color: green;
+	text-align: center;
+	border-right: 1px solid rgb(159, 209, 207);
+}
+
+#photos
+{
+	font: underline 15px/40px Times, serif;
+	font-size: 200%;
+	text-decoration: none;
+	color: green;
+	text-align: center;
+	border-right: 1px solid rgb(159, 209, 207);
+}
+
+#playlist
+{
+	font: underline 15px/40px Times, serif;
+	font-size: 200%;
+	text-decoration: none;
+	color: green;
+	text-align: center;
+	border-right: 1px solid rgb(159, 209, 207);
+}
+
+#like
+{
+	font: underline 15px/40px Times, serif;
+	font-size: 200%;
+	text-decoration: none;
+	color: green;
+	text-align: center;
+	border-right: 1px solid rgb(159, 209, 207);
+}
+
+#qrcoder
+{
+	font: underline 15px/40px Times, serif;
+	font-size: 200%;
+	text-decoration: none;
+	color: green;
+	text-align: center;
+	border-right: 1px solid rgb(159, 209, 207);
+}
+
+#spa
+{
+	font: underline 15px/40px Times, serif;
+	font-size: 200%;
+	text-decoration: none;
+	color: green;
+	text-align: center;
+	border-right: 1px solid rgb(159, 209, 207);
+}
+
 a
 {
 	font: bold 30px/40px Times, serif;
