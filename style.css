@@ -1,0 +1,38 @@
+#menu
+{
+	position: inherit;
+	width: 100%;
+	height: 35px;
+	background: green;
+}
+
+body
+{
+	background-image: url("https://imgur.com/bO8YjxQ.jpg");
+	background-size: 100%;
+	size: 100%;
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+}
+
+#title
+{
+	font: bold 15px/40px Times, serif;
+	font-size: 250%;
+	text-decoration: none;
+	color: green;
+	text-align: center;
+	border-right: 1px solid rgb(159, 209, 207);
+}
+
+a
+{
+	font: bold 30px/40px Times, serif;
+	font-size: 200%;
+	text-decoration: none;
+	color: whitesmoke;
+	text-align: center;
+	border-right: 1px solid rgb(159, 209, 207);
+}
+
